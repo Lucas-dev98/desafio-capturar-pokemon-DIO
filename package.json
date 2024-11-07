@@ -1,0 +1,16 @@
+{
+  "name": "desafio-pokemon",
+  "version": "1.0.0",
+  "description": "Projeto para o desafio de escolher um Pokémon inicial",
+  "main": "escolherPokemon.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "keywords": [],
+  "author": "Lucas Bastos",
+  "license": "ISC"
+}
